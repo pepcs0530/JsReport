@@ -1,0 +1,20 @@
+{
+    "shortid": "rkJTnK2ce",
+    "recipe": "phantom-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "Sy5S19ncg"
+    },
+    "modificationDate": {
+        "$$date": 1521451740692
+    },
+    "_id": "BoEVHI99Osd8MvV3",
+    "resources": {
+        "items": [
+            {
+                "shortid": "Sy5S19ncg",
+                "entitySet": "data"
+            }
+        ]
+    }
+}
